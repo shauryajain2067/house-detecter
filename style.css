@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+    
+}
+
+.buttons{
+    border-radius: 25px;
+    font-size:25px;
+    font-weight:bold;
+    width:40%;
+    background-color:red;
+}
+
+.heading{
+    margin:0;
+    width:100%;
+    box-shadow:5px 5px 5px black;
+}
+.btn1{
+    float:right;
+    background-color:blue;
+    color:white;
+    font-size:23px;
+    margin-right:30px;
+}
+canvas{
+    border:5px solid black;
+    border-radius:15px;
+    box-shadow:5px 5px 5px white;
+    margin-top:80px;
+}
